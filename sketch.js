@@ -31,9 +31,7 @@ function setup() {
     World.add(world,ground);
 }
  
-var Engine = Matter.Engine,
-    World = Matter.World,
-    Bodies = Matter.Bodies;
+
  
 var engine;
 var world;
